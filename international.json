@@ -1,0 +1,15 @@
+{
+    "BOY": [
+        "Alfonso", "Ali", "Alonso", "Amigo", "Anastasio", "Andre", "Andreas", "Andretti", "Archimedes", "Argos", "Aries", "Arturo", "Atlas", "Aussie", "Aztec", "Berlin", "Bernoulli", "Boris", "Britton", "Caesar (Ceasar)", "Carlito", "Chaucer", "Chavez", "Chekov", "Churchill",
+        "Cochise", "Copernicus", "Cortez", "Cristos", "Czar", "Da Vinci", "Dante", "Delgado", "Deutsch", "Diego", "Don Juan", "Enrique", "Escobar", "Fibonacci", "Finnegan", "Francois", "Fritz", "Gandhi", "Garcia", "Gordo", "Guinness", "Gustav", "Iggy", "Igor", "Ishmael",
+        "Isreal", "Ivan", "Jacques", "Jock", "Jose", "Juan", "Julio", "Kenji", "Kingston", "Klaus", "Lad", "Laika", "Leonardo", "Luigi", "Macbeth", "Manuel", "Mario", "Matisse", "McTavish", "Monet", "Mowgli", "Mulligan", "Nacho", "Nero", "Nikita", 
+        "Nyx", "Ole", "Pablo", "Paco", "Pascal", "Pedro", "Pepe", "Picasso", "Ping", "Ricardo", "Romeo", "Ronaldo", "Sancho", "Sasha", "Shemus", "Sirius", "Sterling", "Sushi", "Sven", "Taco", "Tito", "Tolstoy", "Uggie", "Vino", "Vlad", "Yoshi"
+    ],
+    "GIRL": [
+        "Aaliyah (Aleyah)", "Abra", "Acadia", "Aja", "Akeya", "Akira", "Akita", "Ambrosia", "Amelie", "Anastasia", "Andromeda", "Anika (Annika)", "Aphrodite", "Apollonia", "Aquirius", "Aries", "Artemis", "Asia", "Astra", "Athena", "Aussie", "Azalia", "Babushka", "Brunhilda", "Calisto",
+        "Calliope", "Callisto", "Calypso", "Carmen", "Cha-Cha", "Chaca", "Chanel", "Chi Chi", "Chica", "China", "Chiquita", "Cleopatra", "Cypris (Cyprus)", "Desdemona", "Duchess", "Ebony", "Ezra", "Freya", "Frida", "Gaia", "Galina", "Giselle", "Gucci", "Guinevere", "Guinness",
+        "Hecuba", "Hera", "Hermia", "Hermione", "Huntress", "Iggy", "India", "Indigo", "Isadora", "Ishika", "Isis", "Isobel", "Ivory", "Jamaica", "Joan of Arc", "Kahlua", "Katsumi", "Kitana", "Kiwi", "Kona", "Laika", "Luna", "Magdalene", "Malika", "Mamba",
+        "Mariya", "Medusa", "Mika", "Nadia", "Nairobi", "Nema", "Nessie", "Nikita", "Nyx", "Oksana", "Olga", "Olive", "Olympia", "Panda", "Pandora", "Papoose", "Persephone", "Petra", "Pocahontas", "Roma", "Rosarita", "Rumba", "Saffron", "Sangria", "Sasha",
+        "Sashimi", "Serena", "Sheba", "Shiva", "Snookie (Suki)", "Sophia (Sofia)", "Sushi", "Sydney", "Tahiti", "Thea (Theia)", "Usana", "Verona", "Xena", "Yoko", "Yuki", "Yumi", "Yuna", "Zada", "Zara (Zahra)", "Zeda", "Zendaya", "Zuni", "Zuzu"
+    ]
+}

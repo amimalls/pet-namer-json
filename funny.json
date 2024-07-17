@@ -1,0 +1,33 @@
+{
+    "BOY": [
+      "Adonis", "Afro", "Archibald", "Babe", "Bacon", "Baloo", "Banjo", "Barkley", "Barney", "Beaker", "Beast", "Bender", 
+      "Big Guy", "Big Red", "Biggie Smalls", "Bilbo", "Billy the Kid", "Bimmer", "Bingo", "Biscuit", "Blue (Blu)", 
+      "Bobby (Mcgee)", "Boi", "Bond", "Bones", "Boss", "Brain", "Brewski", "Brian Griffin", "Brownie", "Bubba", 
+      "Buckaroo", "Buffalo Bill", "Bug", "Bullseye", "Burger", "Buster", "Byte", "Caesar (Ceasar)", "Cheeto", "Chewie", 
+      "Chomp", "Chubby", "Chuck Norris", "Churchill", "Clark Griswold", "Clark Kent", "Cletus", "Clumsy", "Cookie Monster", 
+      "Copernicus", "Cupid", "Cyrano", "Deadpool", "Deputy Dawg", "Dickens", "Dilbert", "Dino", "Donald Trump", 
+      "Doonesbury", "Dude", "Dynamite", "E.T.", "Einstein", "Elf", "Elmo", "Emo", "Ewok", "Fabio", "Farley", "Freud", 
+      "Frito", "Fudge", "Fuzzy", "Gandhi", "Goliath", "Gonzo", "Gordo", "Hamlet", "Hansel", "Harry", "Hero", "Hobbit", 
+      "Hodor", "Homer", "Hooch", "Jasper", "Jawa", "Jeckyll", "Jerry Lee", "Jethro", "K-9", "Kerouac", "Killer", 
+      "Lancelot", "Macbeth", "Macgyver", "Marky Mark", "Marshmallow", "McFly", "McGruff", "Meatball", "Monet", 
+      "Mr. Muggles", "Mulligan", "Ninja", "Nirvana", "Nixon", "OJ", "Olaf", "Ole", "Oreo", "Peanut Butter", "Pee Wee", 
+      "Picasso", "Pickle", "Pikachu", "Pistol", "Pluto", "Pope", "Porkchop", "Puck", "Pugsley", "Quixote", "Ricky Bobby", 
+      "Rogue", "Sable", "Sailor", "Seuss", "Sir-Barks-Alot", "Slink", "Spud", "Squirt", "Stewie", "Stinky", "Sushi", 
+      "Sven", "T-Bone", "Taco", "Tiger", "Tofu", "Tom Servo", "Toto", "Twinkie", "Underdog", "Waffles", "Wagner", 
+      "Waldo", "Wolf", "Yoda"
+    ],
+    "GIRL": [
+      "Abra", "Aphrodite", "Babe", "Babushka", "Baby", "Bacon", "Bambi", "Bean", "Beast", "Biscuit", "Blue (Blu)", 
+      "Blueberry", "Brownie", "Brunhilda", "Bubblegum", "Bug", "Buttercup", "Butternut", "Cha-Cha", "Chantilly", "Cheeto", 
+      "Chi Chi", "Chica", "Chiquita", "Chomp", "Cleopatra", "Coconut", "Cupcake", "Cutey", "Cutey Honey", "Diva", 
+      "Elektra", "Elf", "Ewok", "Fifi", "Flo", "Fluffy", "Foxy", "Frostie (Frosty)", "Fudge", "Fuzzball", "Fuzzy", 
+      "Goldilocks", "Gumdrop", "Hero", "Honeybear", "Honeybee", "Huntress", "Jawa", "Jellybean", "Jezebel", "Joan of Arc", 
+      "June Bug", "Kewpie", "Kiki", "Kiwi", "Lady Rover", "Ladybug", "Lois", "Lolita", "Lollipop", "Lucy Lu", "Magdalene", 
+      "Mai Tai", "Marshmallow", "Matilda", "Meatball", "Medusa", "Miss Beazley", "Miss Havisham", "Mouse", "Munchkin", 
+      "Myrtle", "Nessie", "Ninja", "Nirvana", "Olga", "Oprah", "Oreo", "Peanut Butter", "Pee Wee", "Pickle", "Pikachu", 
+      "Pinky", "Poet", "Porkchop", "Princess", "Puddin", "Rogue", "Sable", "Sheba", "Skittles", "Smooches", "Snickers", 
+      "Snookie (Suki)", "Snowflake", "Sorbet", "Squat", "Squirt", "Sushi", "Tiger", "Tinkerbell", "Tizzy", "Tofu", 
+      "Tootsie", "Twinkie", "Ursula", "Vixen", "Waffles", "Whoopi", "Xena", "Yoko", "Zelda"
+    ]
+  }
+  
